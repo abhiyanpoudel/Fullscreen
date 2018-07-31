@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Full screen</string>
+    <string name="txt1">Username</string>
+    <string name="email_1">Enter Email</string>
+    <string name="butn4">Button Style 4</string>
+    <string name="butn1">Button Style 1</string>
+    <string name="butn2">Button Style 2</string>
+    <string name="butn3">Button Style 3</string>
+
+</resources>
