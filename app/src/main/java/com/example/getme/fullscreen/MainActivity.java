@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
         Typeface mytype = Typeface.createFromAsset(getAssets(), "Ginga.ttf");
         TextView mytext = (TextView)findViewById(R.id.textview1);
         mytext.setTypeface(mytype);
+        TextView myText = (TextView)findViewById(R.id.password);
+        myText.setTypeface(mytype);
 
     }
 }
